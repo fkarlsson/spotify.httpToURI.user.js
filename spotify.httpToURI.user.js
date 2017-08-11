@@ -4,6 +4,7 @@
 // @description Redirects a Spotify HTTP-link to a Spotify URI
 // @include     *open.spotify.com*
 // @version     1
+// @grant window.close
 // ==/UserScript==
 
 var console = unsafeWindow.console;
